@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CH</key>
+	<dict>
+		<key>textViewText</key>
+		<string>你好骚 撒考试 撒卡萨是 爱撒娇撒娇是</string>
+		<key>placeholderText</key>
+		<string>密码</string>
+		<key>navigationTitle</key>
+		<string>我是导航标题</string>
+		<key>nameText</key>
+		<string>名称</string>
+		<key>loginBtnText</key>
+		<string>登录</string>
+		<key>addressText</key>
+		<string>地址</string>
+		<key>setText</key>
+		<string>设置</string>
+	</dict>
+	<key>en-US</key>
+	<dict>
+		<key>textViewText</key>
+		<string>oiuoweiwoeoieoeuowiewoeiwueoiwofiuwoifueowufoiwfoewifoweufiowfuowufiowufowufiowuofeuwoufowueoiuwoiufioeu</string>
+		<key>navigationTitle</key>
+		<string>MyNavigationTitle</string>
+		<key>placeholderText</key>
+		<string>passWord</string>
+		<key>setText</key>
+		<string>Setting</string>
+		<key>addressText</key>
+		<string>Address</string>
+		<key>loginBtnText</key>
+		<string>Login</string>
+		<key>nameText</key>
+		<string>Name</string>
+	</dict>
+</dict>
+</plist>
